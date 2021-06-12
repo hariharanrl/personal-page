@@ -5,9 +5,9 @@ avatar_filename: hariharan-r-l.jpg
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Machine Learning
+  - Deep Learning
+  - Natural Language Processing
 social:
   - icon: envelope
     icon_pack: fas
@@ -17,31 +17,28 @@ social:
     link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/hariharanrl
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://www.linkedin.com/in/hariharanrl22/
 organizations:
   - name: "National Institute of Technology Karnataka "
     url: https://www.nitk.ac.in/
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: PhD in NLP
+      institution: National Institute of Technology Karnataka
+      year: ""
+    - course: MTech in Information Technology (Networking)
+      institution: Vellore Institute of Technology
+      year: 2014
+    - course: BTech in Computer Science & Engineering
+      institution: University of Kerala
+      year: 2010
 email: ""
 superuser: true
 highlight_name: false
 ---
-
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Ph.D. Student at the Department of Information Technology National Institute of Technology Karnataka, having experience of 3.5 years as Assistant Professor in Computer Science & Engineering and 2 years in Industry. I have a Master's in Networking from VIT University, Vellore, and a Bachelor's in Computer Science & Engineering from the University of Kerala. My areas of interest include Natural Language Processing, Deep Learning for NLP.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
