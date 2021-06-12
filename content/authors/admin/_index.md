@@ -2,8 +2,7 @@
 title: Hariharan R L
 role: PhD Candidate
 avatar_filename: hariharan-r-l.jpg
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
+bio: ""
 interests:
   - Machine Learning
   - Deep Learning
@@ -41,4 +40,4 @@ highlight_name: false
 ---
 Ph.D. Student at the Department of Information Technology National Institute of Technology Karnataka, having experience of 3.5 years as Assistant Professor in Computer Science & Engineering and 2 years in Industry. I have a Master's in Networking from VIT University, Vellore, and a Bachelor's in Computer Science & Engineering from the University of Kerala. My areas of interest include Natural Language Processing, Deep Learning for NLP.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}CV{< /staticref >}}.
