@@ -1,7 +1,7 @@
 ---
 title: Hariharan R L
 role: PhD Candidate
-avatar_filename: hariharan-r-l.jpg
+avatar_filename: hariharan_image_0.jpeg
 bio: ""
 interests:
   - Machine Learning
@@ -13,7 +13,7 @@ social:
     link: /#contact
   - icon: graduation-cap
     icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: https://scholar.google.co.in/citations?user=pgHYCbMAAAAJ&hl=en
   - icon: github
     icon_pack: fab
     link: https://github.com/hariharanrl
