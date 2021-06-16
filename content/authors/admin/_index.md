@@ -1,7 +1,7 @@
 ---
 title: Hariharan R L
 role: PhD Candidate
-avatar_filename: hariharan_image_0.jpeg
+avatar_filename: avatar.jpg
 bio: ""
 interests:
   - Machine Learning
